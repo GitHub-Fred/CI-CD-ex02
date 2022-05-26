@@ -1,8 +1,6 @@
 name: Go Tests UE03
 on: [push]
 
-
-
 jobs:
   go_tests:
     env:
